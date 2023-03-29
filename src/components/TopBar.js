@@ -8,7 +8,7 @@ export default function TopBar() {
     return (
         <Box sx={{ flexGrow: 1 }}>
             <AppBar position="static" color='secondary'>
-                <Toolbar>
+                <Toolbar className='TopBar'>
                     <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
                         Ethan's Music App
                     </Typography>

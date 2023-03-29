@@ -1,0 +1,26 @@
+.Welcome {
+    text-align: center;
+}
+
+.dashy {
+    margin: 1%;
+}
+
+.Card {
+    height: 25vh;
+}
+
+.Card h1{
+    text-align: left;
+}
+
+.Notifs{
+    text-align: left;
+}
+
+.CardInsides {
+    background-color: aliceblue;
+    margin: 1.5%;
+    margin-top: 1.0%;
+    height: 21vh;
+}
